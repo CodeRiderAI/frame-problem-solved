@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "ADAM-OSS — Proof Pack and Reproducible Evidence"
+message: >
+  You may freely cite this repository in academic or industrial work.
+  No email contact is required; please reference the repository URL and release tag.
+type: software
+authors:
+  - given-names: "CodeRiderAI"
+repository-code: "https://github.com/CodeRiderAI/frame-problem-solved"
+license: MIT
+keywords:
+  - frame-problem
+  - reproducibility
+  - time-series
+  - anomaly-detection
+  - research-tools
+preferred-citation:
+  type: software
+  authors:
+    - given-names: "CodeRiderAI"
+  year: 2025
+  title: "ADAM-OSS — Proof Pack and Reproducible Evidence"
+  url: "https://github.com/CodeRiderAI/frame-problem-solved"
+  notes: "Cite the specific release tag (v0-toy, v0.1-proof-pack, v1.0-final). DOI will be attached via Zenodo."

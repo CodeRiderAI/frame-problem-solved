@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Secrets
+*.pem
+*.key
+*.json
+
+# Full spec (never public)
+ADAM_full-spec/
